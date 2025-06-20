@@ -1,10 +1,12 @@
 import React from 'react';
-import Header from './components/form';
+// import SignUp from './components/sign_up';
+import SignIn from './components/sign_in';
 
 function App() {
   return (
     <div>
-      <Header/>
+      {/* <SignUp/> */}
+      <SignIn/>
     </div>
   );
 }

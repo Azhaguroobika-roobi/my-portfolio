@@ -46,7 +46,7 @@ return (
         <TextField fullWidth label="Country" id="fullWidth" />
       </Grid>
        <FormGroup>
-      <FormControlLabel control={<Checkbox defaultChecked />} label="Please Cotact me via email" />
+      <FormControlLabel control={<Checkbox defaultChecked />} label="Please Contact me via email" />
       </FormGroup>
       <p>By clicking Create Account,I agree the terms and policy</p>
       <Grid size={12}>
