@@ -2,10 +2,7 @@ import React from "react";
 import TextField from "@mui/material/TextField";
 import InputAdornment from "@mui/material/InputAdornment";
 import Box from "@mui/material/Box";
-import IconButton from "@mui/material/IconButton";
-import FormControlLabel from "@mui/material/FormControlLabel";
 import Typography from "@mui/material/Typography";
-import Checkbox from "@mui/material/Checkbox";
 import Link from "@mui/material/Link";
 import Button from "@mui/material/Button";
 import EmailOutlined from '@mui/icons-material/EmailOutlined'
